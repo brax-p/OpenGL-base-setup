@@ -1,0 +1,4 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "public: void __cdecl Default::App::run(void)" (?run@App@Default@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp___glewGenBuffers referenced in function "public: void __cdecl Default::App::run(void)" (?run@App@Default@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glewExperimental referenced in function "public: void __cdecl Default::App::run(void)" (?run@App@Default@@QEAAXXZ)
+..\bin\Debug\open.gl.exe : fatal error LNK1120: 3 unresolved externals
